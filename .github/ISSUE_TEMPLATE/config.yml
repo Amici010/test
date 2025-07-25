@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+issue_templates:
+  - name: 기능 추가
+    description: 새로운 기능을 제안합니다.
+    labels: [enhancement]
+    file: feature_request.md
+
+  - name: 버그 제보
+    description: 버그를 보고합니다.
+    labels: [bug]
+    file: bug_report.md

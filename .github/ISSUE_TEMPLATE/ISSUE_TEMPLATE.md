@@ -1,3 +1,11 @@
+---
+name: 기능 추가
+about: 새로운 기능을 제안합니다.
+title: "[Feature]: "
+labels: enhancement
+assignees: ''
+---
+
 ## 어떤 기능인가요?
 
 > 추가하려는 기능에 대해 간결하게 설명해주세요
